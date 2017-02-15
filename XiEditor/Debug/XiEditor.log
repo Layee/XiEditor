@@ -1,0 +1,6 @@
+﻿  XiEditor.cpp
+c:\users\abraham\desktop\csc326\xieditor\xieditor\xieditor.cpp(131): warning C4018: '>=': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+  XiEditor.vcxproj -> C:\Users\abraham\Desktop\Csc326\XiEditor\Debug\XiEditor.exe
+  XiEditor.vcxproj -> C:\Users\abraham\Desktop\Csc326\XiEditor\Debug\XiEditor.pdb (Full PDB)
